@@ -2,8 +2,7 @@
 
 - Completed project - [More On Market](https://moreonmarket.vercel.app/)
 
-- Currently working on - **My Portfolio**
-- and - **Vercify-Music**
+- Currently working on - **My Portfolio** and **Vercify-Music**
 
 - Reach me **code33gs@gmail.com**
 
