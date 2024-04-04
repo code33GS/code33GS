@@ -3,8 +3,9 @@
 - Completed project - [More On Market](https://moreonmarket.vercel.app/)
 
 - Currently working on - **My Portfolio**
+- and - **Vercify-Music**
 
-- How to reach me **code33gs@gmail.com**
+- Reach me **code33gs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
