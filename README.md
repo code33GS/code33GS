@@ -1,8 +1,7 @@
 <h3 align="center">I'm an engineering student (18) from India and also... <br>A passionate frontend developer...(Learning advanced backend)</h3>
 
-### Completed project 
+### Completed project - [More On Market](https://moreonmarket.vercel.app/)
 
-- ``` [More On Market](https://moreonmarket.vercel.app/) ```
 - Currently working on - **My Portfolio** and **Vercify-Music**
 
 - Reach me **code33gs@gmail.com**
