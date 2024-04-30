@@ -4,9 +4,12 @@
 1. [More On Market](https://moreonmarket.vercel.app/)
 2. [To·Do - Just Do It Bruh](https://code33gs-todo.vercel.app/)
 
-- Currently working on - **My Portfolio** and **Vercify-Music**
+### · Currently working on:
+1. [My portfolio](https://github.com/code33GS/My-Portfolio)
+2. [To·Do - Just Do It Bruh](https://github.com/code33GS/Vercify-music)
 
-- Reach me **code33gs@gmail.com**
+### · Reach me @
+[code33gs@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhJQDFkqpftnJklVRTGFJJhQSQWVHtCkWrgVdkbpJcvghTDPxdTRQhCfbBzCDbwQsdflc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
