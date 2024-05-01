@@ -6,7 +6,7 @@
 
 ### · Currently working on:
 1. [My portfolio](https://github.com/code33GS/My-Portfolio)
-2. [To·Do - Just Do It Bruh](https://github.com/code33GS/Vercify-music)
+2. [Vericfy-music(app)](https://github.com/code33GS/Vercify-music)
 
 ### · Reach me @
 [code33gs@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbhJQDFkqpftnJklVRTGFJJhQSQWVHtCkWrgVdkbpJcvghTDPxdTRQhCfbBzCDbwQsdflc)
