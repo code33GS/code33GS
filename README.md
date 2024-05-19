@@ -3,6 +3,7 @@
 ### · Completed projects:
 1. [To·Do - Just Do It Bruh](https://code33gs-todo.vercel.app/)
 2. [More On Market](https://moreonmarket.vercel.app/)
+3. [PassWRD](https://pass-wrd.vercel.app/)
 
 ### · Currently working on:
 1. [My portfolio](https://github.com/code33GS/My-Portfolio)
